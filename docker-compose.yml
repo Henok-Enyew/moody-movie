@@ -10,5 +10,4 @@ services:
     command: >
       sh -c "
              python manage.py runserver 0.0.0.0:8000"
-    environment:
-      - GEMINI_API_KEY=AIzaSyBJwcpEhJaZC1n0GVoCR-SVmKG3oUMfX7I
+  
